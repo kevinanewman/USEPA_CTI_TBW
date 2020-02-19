@@ -28,7 +28,7 @@ setup(
     ],
     packages=["usepa_cti"],                # or something like packages=find_packages(exclude=("tests",)),
     include_package_data=True,
-    install_requires=["numpy", "matplotlib", "pandas"],
+    install_requires=["numpy", "matplotlib", "pandas", "scipy"],
     # entry_points={
     #     "console_scripts": [
     #         "omega2=usepa_omega2.__main__:main",
