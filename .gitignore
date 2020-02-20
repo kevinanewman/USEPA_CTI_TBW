@@ -1,0 +1,6 @@
+/venv/
+/usepa_cti.egg-info/
+/usepa_cti/output/cti_TBW_300_300_c(25)_idl1/
+/dist/
+/build/lib/usepa_cti/
+/.idea/
