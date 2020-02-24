@@ -3,7 +3,7 @@ Introduction
 
 Python package for the evaluation of various NOx emissions binning algorithms for the US EPA Cleaner Trucks Initiative (CTI)
 
-US EPA Clean Truck Initiative Time Based Window Code
+US EPA Cleaner Trucks Initiative Time Based Window Code
 
 Installation
 ------------
