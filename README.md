@@ -1,5 +1,5 @@
 # USEPA_CTI_TBW
-US EPA Clean Truck Initiative Time Based Window Code
+US EPA Cleaner Trucks Initiative Time Based Window Code
 
 Installation
 ------------
