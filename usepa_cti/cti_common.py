@@ -295,7 +295,7 @@ def handle_command_line_options(app_description='Generic CTI App', additional_ar
 
     print('options.profile_filename = ' + options.profile_filename)
     if options.profile_filename == 'prompt':
-        options.profile_filename = filedialog.askopenfilename(title='Select cti Data Source Profile',
+        options.profile_filename = filedialog.askopenfilename(title='Select CTI Data Source Profile',
                                                               initialdir=options.source_path,
                                                               filetypes=[('cti data source profile',
                                                                           'cti_data_source_profile.xlsx', '*.xlsx')])
